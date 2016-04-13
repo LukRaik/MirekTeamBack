@@ -1,7 +1,7 @@
 package com.dubilowicz.elista.utils.converters;
 
-import com.dubilowicz.elista.user.dto.WorkTimeDto;
-import com.dubilowicz.elista.user.ob.WorkTimeOb;
+import com.dubilowicz.elista.core.dto.WorkTimeDto;
+import com.dubilowicz.elista.data.ob.WorkTimeOb;
 
 /**
  * Created by RaikPraca on 2016-03-23.

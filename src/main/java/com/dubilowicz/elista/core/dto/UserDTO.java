@@ -1,4 +1,4 @@
-package com.dubilowicz.elista.user.dto;
+package com.dubilowicz.elista.core.dto;
 
 import io.swagger.annotations.ApiModel;
 

@@ -1,7 +1,7 @@
-package com.dubilowicz.elista.user.api;
+package com.dubilowicz.elista.rest.controllers;
 
-import com.dubilowicz.elista.user.dto.UserDTO;
-import com.dubilowicz.elista.user.service.IUserService;
+import com.dubilowicz.elista.core.dto.UserDTO;
+import com.dubilowicz.elista.services.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

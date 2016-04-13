@@ -1,9 +1,9 @@
-package com.dubilowicz.elista.user.service.impl;
+package com.dubilowicz.elista.services.impl;
 
-import com.dubilowicz.elista.user.dto.UserDTO;
-import com.dubilowicz.elista.user.ob.UserOB;
-import com.dubilowicz.elista.user.repository.IUserRepository;
-import com.dubilowicz.elista.user.service.IUserService;
+import com.dubilowicz.elista.core.dto.UserDTO;
+import com.dubilowicz.elista.data.ob.UserOB;
+import com.dubilowicz.elista.data.repository.IUserRepository;
+import com.dubilowicz.elista.services.IUserService;
 import com.dubilowicz.elista.utils.converters.UserConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

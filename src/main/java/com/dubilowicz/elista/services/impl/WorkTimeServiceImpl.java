@@ -1,10 +1,9 @@
-package com.dubilowicz.elista.user.service.impl;
+package com.dubilowicz.elista.services.impl;
 
-import com.dubilowicz.elista.user.dto.WorkTimeDto;
-import com.dubilowicz.elista.user.ob.WorkTimeOb;
-import com.dubilowicz.elista.user.repository.IUserRepository;
-import com.dubilowicz.elista.user.repository.IWorkTimeRepository;
-import com.dubilowicz.elista.user.service.ISimpleService;
+import com.dubilowicz.elista.core.dto.WorkTimeDto;
+import com.dubilowicz.elista.data.ob.WorkTimeOb;
+import com.dubilowicz.elista.data.repository.IWorkTimeRepository;
+import com.dubilowicz.elista.services.ISimpleService;
 import com.dubilowicz.elista.utils.converters.WorkTimeConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

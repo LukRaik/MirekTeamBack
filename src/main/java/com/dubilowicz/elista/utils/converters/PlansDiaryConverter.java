@@ -1,7 +1,7 @@
 package com.dubilowicz.elista.utils.converters;
 
-import com.dubilowicz.elista.user.dto.PlansDiaryDto;
-import com.dubilowicz.elista.user.ob.PlansDiaryOb;
+import com.dubilowicz.elista.core.dto.PlansDiaryDto;
+import com.dubilowicz.elista.data.ob.PlansDiaryOb;
 
 /**
  * Created by RaikPraca on 2016-03-23.

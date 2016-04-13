@@ -1,7 +1,7 @@
 package com.dubilowicz.elista.utils.converters;
 
-import com.dubilowicz.elista.user.dto.AbsenceDto;
-import com.dubilowicz.elista.user.ob.AbsenceOb;
+import com.dubilowicz.elista.core.dto.AbsenceDto;
+import com.dubilowicz.elista.data.ob.AbsenceOb;
 
 /**
  * Created by RaikPraca on 2016-03-23.

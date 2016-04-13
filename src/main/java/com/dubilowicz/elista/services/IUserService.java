@@ -1,6 +1,6 @@
-package com.dubilowicz.elista.user.service;
+package com.dubilowicz.elista.services;
 
-import com.dubilowicz.elista.user.dto.UserDTO;
+import com.dubilowicz.elista.core.dto.UserDTO;
 
 import java.util.List;
 

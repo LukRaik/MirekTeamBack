@@ -1,6 +1,6 @@
-package com.dubilowicz.elista.user.dto;
+package com.dubilowicz.elista.core.dto;
 
-import com.dubilowicz.elista.user.ob.UserOB;
+import com.dubilowicz.elista.data.ob.UserOB;
 import io.swagger.annotations.ApiModel;
 
 import java.io.Serializable;

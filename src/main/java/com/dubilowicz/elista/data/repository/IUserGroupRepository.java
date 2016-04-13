@@ -1,6 +1,6 @@
-package com.dubilowicz.elista.user.repository;
+package com.dubilowicz.elista.data.repository;
 
-import com.dubilowicz.elista.user.ob.UserGroupOb;
+import com.dubilowicz.elista.data.ob.UserGroupOb;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

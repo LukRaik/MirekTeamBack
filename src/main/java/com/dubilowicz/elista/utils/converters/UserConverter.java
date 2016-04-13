@@ -1,7 +1,7 @@
 package com.dubilowicz.elista.utils.converters;
 
-import com.dubilowicz.elista.user.dto.UserDTO;
-import com.dubilowicz.elista.user.ob.UserOB;
+import com.dubilowicz.elista.core.dto.UserDTO;
+import com.dubilowicz.elista.data.ob.UserOB;
 
 /**
  * Created by Pawel Dubilowicz on 2016-03-06.

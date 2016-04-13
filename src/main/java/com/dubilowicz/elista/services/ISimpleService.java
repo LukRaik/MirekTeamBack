@@ -1,4 +1,4 @@
-package com.dubilowicz.elista.user.service;
+package com.dubilowicz.elista.services;
 
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.dubilowicz.elista.user.ob;
+package com.dubilowicz.elista.data.ob;
 
 import javax.persistence.*;
 import java.io.Serializable;

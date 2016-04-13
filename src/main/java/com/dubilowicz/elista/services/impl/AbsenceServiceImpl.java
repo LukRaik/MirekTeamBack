@@ -1,14 +1,10 @@
-package com.dubilowicz.elista.user.service.impl;
+package com.dubilowicz.elista.services.impl;
 
-import com.dubilowicz.elista.user.dto.AbsenceDto;
-import com.dubilowicz.elista.user.dto.PlansDiaryDto;
-import com.dubilowicz.elista.user.ob.AbsenceOb;
-import com.dubilowicz.elista.user.ob.PlansDiaryOb;
-import com.dubilowicz.elista.user.repository.IAbsenceRepository;
-import com.dubilowicz.elista.user.repository.IPlansDiaryRepository;
-import com.dubilowicz.elista.user.service.ISimpleService;
+import com.dubilowicz.elista.core.dto.AbsenceDto;
+import com.dubilowicz.elista.data.ob.AbsenceOb;
+import com.dubilowicz.elista.data.repository.IAbsenceRepository;
+import com.dubilowicz.elista.services.ISimpleService;
 import com.dubilowicz.elista.utils.converters.AbsenceConverter;
-import com.dubilowicz.elista.utils.converters.PlansDiaryConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
